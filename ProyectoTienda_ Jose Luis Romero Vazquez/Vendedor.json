@@ -1,0 +1,37 @@
+[{
+  "_id": 1,
+  "Nombre": "Jose Luis",
+  "Empresa": "Tesla inc.",
+  "Telefono": "444 431 3557",
+  "Sucursales": 37
+},{
+  "_id": 2,
+  "Nombre": "Misael",
+  "Empresa": "Telcel",
+  "Telefono": [
+    "444 432 3663",
+    "444 457 221"
+  ],
+  "Sucursales": 38
+},{
+  "_id": 3,
+  "Nombre": "Pedro",
+  "Empresa": "Unefon",
+  "Telefono": [
+    "444 433 3558",
+    "444 491 123"
+  ],
+  "Sucursales": 39
+},{
+  "_id": 4,
+  "Nombre": "Carmen",
+  "Empresa": "Intel",
+  "Telefono": "444 452 3888",
+  "Sucursales": 40
+},{
+  "_id": 5,
+  "Nombre": "Karina",
+  "Empresa": "HP",
+  "Telefono": "444 483 3524",
+  "Sucursales": 41
+}]

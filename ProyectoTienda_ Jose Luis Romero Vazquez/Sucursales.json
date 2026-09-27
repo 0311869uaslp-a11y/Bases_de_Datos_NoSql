@@ -1,0 +1,51 @@
+[{
+  "_id": 37,
+  "Sucursal": "Sucursal1",
+  "Vendedor": "Jose Luis",
+  "Direccion": {
+    "Estado": "San Luis Potosí",
+    "Calle": " Circuito Maestros Ilustres ",
+    "Numero": "121",
+    "colonia": " Universitaria "
+  }
+},{
+  "_id": 38,
+  "Sucursal": "Sucursal2",
+  "Vendedor": "Misael",
+  "Direccion": {
+    "Estado": "San Luis Potosí",
+    "Calle": " Insurgentes ",
+    "Numero": "302",
+    "colonia": " Centro"
+  }
+},{
+  "_id": 39,
+  "Sucursal": "Sucursal3",
+  "Vendedor": "Pedro",
+  "Direccion": {
+    "Estado": "San Luis Potosí",
+    "Calle": " Francisco I. Madero ",
+    "Numero": "344",
+    "colonia": " Centro"
+  }
+},{
+  "_id": 40,
+  "Sucursal": "Sucursal4",
+  "Vendedor": "Carmen",
+  "Direccion": {
+    "Estado": "San Luis Potosí",
+    "Calle": " Pedro Vallejo ",
+    "Numero": "1701",
+    "colonia": " Montecillo"
+  }
+},{
+  "_id": 41,
+  "Sucursal": "Sucursal5",
+  "Vendedor": "Karina",
+  "Direccion": {
+    "Estado": "San Luis Potosí",
+    "Calle": " Dr. Manuel Nava ",
+    "Numero": "308",
+    "colonia": " Zona Universitaria "
+  }
+}]

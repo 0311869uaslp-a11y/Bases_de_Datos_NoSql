@@ -1,0 +1,70 @@
+[{
+  "_id": 6,
+  "Nombre": "Ivanna",
+  "Telefono": [
+    "444 488 8584",
+    "444 111 333"
+  ],
+  "Direccion": {
+    "Estado": "San Luis Potosí",
+    "Calle": "Circuito Maestros Ilustres",
+    "Numero": "146",
+    "colonia": "Universitaria"
+  }
+},{
+  "_id": 7,
+  "Nombre": "Araceli",
+  "Telefono": [
+    "444 435 3993",
+    "444 411 765"
+  ],
+  "Direccion": {
+    "Estado": "San Luis Potosí",
+    "Calle": " Insurgentes ",
+    "Numero": "300",
+    "colonia": "Centro"
+  }
+},{
+  "_id": 8,
+  "Nombre": "Berenice",
+  "Telefono": "444 499 7863",
+  "Direccion": {
+    "Estado": "San Luis Potosí",
+    "Calle": " Francisco I. Madero ",
+    "Numero": "365",
+    "colonia": "Centro"
+  }
+},{
+  "_id": 9,
+  "Nombre": "Eduardo",
+  "Telefono": [
+    "444 492 2328",
+    "444 456 903"
+  ],
+  "Direccion": {
+    "Estado": "San Luis Potosí",
+    "Calle": " Pedro Vallejo ",
+    "Numero": "1705",
+    "colonia": "Montecillo"
+  }
+},{
+  "_id": 10,
+  "Nombre": "Alexa",
+  "Telefono": "444 421 9532",
+  "Direccion": {
+    "Estado": "San Luis Potosí",
+    "Calle": " Dr. Manuel Nava ",
+    "Numero": "304",
+    "colonia": " Zona Universitaria "
+  }
+},{
+  "_id": 11,
+  "Nombre": "Araceli",
+  "Telefono": "444 435 3993",
+  "Direccion": {
+    "Estado": "San Luis Potosí",
+    "Calle": " Insurgentes",
+    "Numero": "300",
+    "colonia": " Centro "
+  }
+}]

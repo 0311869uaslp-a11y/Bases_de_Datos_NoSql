@@ -1,0 +1,41 @@
+[{
+  "_id": 32,
+  "NombreVendedor": 1,
+  "Productos": "Celular",
+  "Stock": 4,
+  "Color": "Amarillo",
+  "Marca": "Motorola",
+  "Modelo": "Motorola G7 Plus"
+},{
+  "_id": 33,
+  "NombreVendedor": 2,
+  "Productos": "Celular",
+  "Stock": 5,
+  "Color": "Azul",
+  "Marca": "Huawei",
+  "Modelo": "Nova Y60 "
+},{
+  "_id": 34,
+  "NombreVendedor": 3,
+  "Producto": "Funda Celular",
+  "Stock": 8,
+  "Color": "Negro",
+  "Marca": "Unefon",
+  "Modelo": "Desconocido"
+},{
+  "_id": 35,
+  "NombreVendedor": 4,
+  "Productos": "Reloj inteligente",
+  "Stock": 15,
+  "Color": "Negro",
+  "Marca": "Microsoft",
+  "Modelo": "Microsoft Moonraker"
+},{
+  "_id": 36,
+  "NombreVendedor": 5,
+  "Productos": "Impresora",
+  "Stock": 4,
+  "Color": "Negro",
+  "Marca": "HP",
+  "Modelo": "Hp Smart Tank 790"
+}]

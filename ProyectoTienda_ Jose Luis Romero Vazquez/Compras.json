@@ -1,0 +1,85 @@
+[{
+  "_id": 12,
+  "Producto": "Celular",
+  "Cantidad": 2,
+  "Precio": 3200,
+  "FechaHora": {
+    "$date": {
+      "$numberLong": "1672970395883"
+    }
+  }
+},{
+  "_id": 13,
+  "Producto": "Carro electrico",
+  "Cantidad": 1,
+  "Precio": 158000,
+  "FechaHora": {
+    "$date": {
+      "$numberLong": "1672970395883"
+    }
+  }
+},{
+  "_id": 14,
+  "Producto": "Laptop",
+  "Cantidad": 2,
+  "Precio": 22000,
+  "FechaHora": {
+    "$date": {
+      "$numberLong": "1672970395883"
+    }
+  }
+},{
+  "_id": 15,
+  "Producto": "Funda para celular",
+  "Cantidad": 1,
+  "Precio": 150,
+  "FechaHora": {
+    "$date": {
+      "$numberLong": "1672970395883"
+    }
+  }
+},{
+  "_id": 16,
+  "Producto": "Reloj inteligente",
+  "Cantidad": 1,
+  "Precio": 3500,
+  "FechaHora": {
+    "$date": {
+      "$numberLong": "1672970395883"
+    }
+  }
+},{
+  "0": {
+    "_id": 17,
+    "Vendedor": 1,
+    "Cliente": 6,
+    "Compra": 13
+  },
+  "1": {
+    "_id": 18,
+    "Vendedor": 2,
+    "Cliente": 11,
+    "Compra": 12
+  },
+  "2": {
+    "_id": 19,
+    "Vendedor": 3,
+    "Cliente": 8,
+    "Compra": 14
+  },
+  "3": {
+    "_id": 20,
+    "Vendedor": 4,
+    "Cliente": 9,
+    "Compra": 15
+  },
+  "4": {
+    "_id": 21,
+    "Vendedor ": 5,
+    "Cliente": 10,
+    "Compra": 16
+  },
+  "_id": {
+    "$oid": "63b780f1bbcd37fc4cf15048"
+  }
+}]

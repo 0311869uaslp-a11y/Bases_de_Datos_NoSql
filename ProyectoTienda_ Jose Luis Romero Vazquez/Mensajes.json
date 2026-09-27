@@ -1,0 +1,85 @@
+[{
+  "_id": 22,
+  "Mensaje": "Hola",
+  "Remitente": 1,
+  "Destinatario": 6,
+  "FechaHora": {
+    "$date": {
+      "$numberLong": "1672970552348"
+    }
+  }
+},{
+  "_id": 23,
+  "Mensaje": "¿Cómo estas?",
+  "Remitente": 2,
+  "Destinatario": 11,
+  "FechaHora": {
+    "$date": {
+      "$numberLong": "1672970552348"
+    }
+  }
+},{
+  "_id": 24,
+  "Mensaje": "Un gusto, mi nombre es Pedro",
+  "Remitente": 3,
+  "Destinatario": 8,
+  "FechaHora": {
+    "$date": {
+      "$numberLong": "1672970552348"
+    }
+  }
+},{
+  "_id": 25,
+  "Mensaje": "¿Cuánto tardaría en llegar?",
+  "Remitente": 4,
+  "Destinatario": 10,
+  "FechaHora": {
+    "$date": {
+      "$numberLong": "1672970552348"
+    }
+  }
+},{
+  "_id": 26,
+  "Mensaje": "¿Aun lo tiene en existencia",
+  "Remitente": 5,
+  "Destinatario": 9,
+  "FechaHora": {
+    "$date": {
+      "$numberLong": "1672970552348"
+    }
+  }
+},{
+  "0": {
+    "_id": 27,
+    "Vendedor": 1,
+    "Cliente": 6,
+    "Mensaje": 22
+  },
+  "1": {
+    "_id": 28,
+    "Vendedor": 2,
+    "Cliente": 11,
+    "Mensaje": 23
+  },
+  "2": {
+    "_id": 29,
+    "Vendedor": 3,
+    "Cliente": 8,
+    "Mensaje": 24
+  },
+  "3": {
+    "_id": 30,
+    "Vendedor": 4,
+    "Cliente": 9,
+    "Mensaje": 25
+  },
+  "4": {
+    "_id": 31,
+    "Vendedor": 5,
+    "Cliente": 10,
+    "Mensaje": 26
+  },
+  "_id": {
+    "$oid": "63b781c0bbcd37fc4cf15049"
+  }
+}]
